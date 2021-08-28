@@ -37,7 +37,7 @@
 
 ![Goals Outcomes](Resources/PlaysSS.png)
 
-![Goals Outcomes](Resources/Outcomes_vs_Goal.png)
+![Goals Outcomes](Resources/Outcomes_vs_Goals.png)
 
 ### **Challenges and Difficulties Encountered**
 
