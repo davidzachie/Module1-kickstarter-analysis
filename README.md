@@ -20,8 +20,9 @@
 
 #### Then parent Category was filtered to “Theater” and Outcomes were sorted in descending order.  Then the pivot chart was created based on the pivot table.
 
-![Launch Date Outcomes](Resources/Theater_Outcomes_vs_Launch.png) 
+![Launch Date Outcomes](Resources/TheaterSS.png) 
         
+![Launch Date Outcomes](Resources/Theater_Outcomes_vs_Launch.png) 
 
 ### **Analysis of Outcomes Based on Goals**
 
@@ -34,7 +35,10 @@
 
 #### The percentages were then used to create a line chart that showed the percentages of outcomes based on goal.
 
-![Goals Outcomes](Resources/Outcomes_vs_Goals.png)
+![Goals Outcomes](Resources/PlaysSS.png)
+
+![Goals Outcomes](Resources/Outcomes_vs_Goal.png)
+
 ### **Challenges and Difficulties Encountered**
 
 #### I did not encounter much challenges in creating the pivot table, pivot chart, writing the countif() function, and percentages chart.  One thing that raised a question when I was working on the countif() was the Goal range “Greater than 50000.”  I decided to set the condition as “>=50000” instead of “>50000” because otherwise we will be missing some outcome counts where the goal is equal to 50,000
