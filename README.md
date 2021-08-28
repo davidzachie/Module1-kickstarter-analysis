@@ -2,7 +2,7 @@
 
 ## **Overview of Project**
 
-### The purpose of this project is to help Louise to predict the best month(s) to launch future campaigns during the year and to set the appropriate campaign goals in order to achieve the highest successful outcomes.  In this project, we are focusing on the Theater category in general and the Plays subcategory in particular.
+#### The purpose of this project is to help Louise to predict the best month(s) to launch future campaigns during the year and to set the appropriate campaign goals in order to achieve the highest successful outcomes.  In this project, we are focusing on the Theater category in general and the Plays subcategory in particular.
 
 ## **Analysis and Challenges**
 
@@ -20,7 +20,7 @@
 
 #### Then parent Category was filtered to “Theater” and Outcomes were sorted in descending order.  Then the pivot chart was created based on the pivot table.
 
-![Screen Shot 2021-08-26 at 1 15 39 PM (2)](https://user-images.githubusercontent.com/88875338/131181377-6ad18671-ae97-491b-9dff-8fdfcf81f170.png) 
+![Launch Date Outcomes](Resources/Theater_Outcomes_vs_Launch.png) 
         
 
 ### **Analysis of Outcomes Based on Goals**
@@ -34,7 +34,7 @@
 
 #### The percentages were then used to create a line chart that showed the percentages of outcomes based on goal.
 
-![Screen Shot 2021-08-26 at 1 26 37 PM (2)](https://user-images.githubusercontent.com/88875338/131181519-2689fbdf-ca32-44fc-a08d-282997a2db03.png)
+![Goals Outcomes](Resources/Outcomes_vs_Goals.png)
 ### **Challenges and Difficulties Encountered**
 
 #### I did not encounter much challenges in creating the pivot table, pivot chart, writing the countif() function, and percentages chart.  One thing that raised a question when I was working on the countif() was the Goal range “Greater than 50000.”  I decided to set the condition as “>=50000” instead of “>50000” because otherwise we will be missing some outcome counts where the goal is equal to 50,000
